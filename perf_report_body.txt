@@ -1,0 +1,4 @@
+Attached is the past 1 month average of CPU/MEM/Load for all hosts!  Do not fwd to customer!
+
+Thanks,
+Nagios Team
